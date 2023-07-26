@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: white;
+}
+body{
+    background-image: url(../img/xd.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.contenedor{
+    text-align: center;
+    align-items: center;
+}
+th:hover{
+    color: white;
+    background-color: blueviolet;
+}
+tr:hover{
+    color: white;
+    background-color: rgb(12, 245, 32);
+}
+tr{
+    color: rgb(15, 11, 11);
+    background-color: antiquewhite;
+}

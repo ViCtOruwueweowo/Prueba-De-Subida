@@ -1,0 +1,147 @@
+body{
+    background-image: url(neon.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size:cover;
+    background-position:auto;
+    background-attachment: fixed;
+}
+ul li:hover{
+    color: rgb(0, 255, 255);
+    font-size: 25px;
+}
+ul li{
+    font-size: 18px;
+    color: whitesmoke;
+}
+h4{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+h4:hover{
+color: purple;
+}
+.text1{
+    border: solid;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    background-color: transparent;
+    color: white;
+}
+ul li:hover{
+    color: rgb(0, 255, 255);
+    font-size: 25px;
+}
+ul li{
+    font-size: 18px;
+    color: rgb(102, 0, 0);
+}
+h4{
+    color: rgb(255, 255, 255);
+    
+}
+h4,h1,h2,h3,h5,h6,h7:hover{
+color: aliceblue;
+}
+.text1{
+    border: solid;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    background-color: transparent;
+    color: white;
+    border-color: greenyellow;
+}
+.text2{
+    text-align: center;
+     color: aliceblue;
+     border: solid 2px;
+     border-color: antiquewhite;
+     width:30% ;
+     margin: auto;
+     padding: 20px;
+     background-color:transparent;
+}
+th:hover{
+    color: white;
+    background-color: rgb(43, 116, 226);
+    font-size: 25px;
+}
+tr:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(245, 241, 12);
+    font-size: 20px;
+}
+tr, th{
+    color: rgb(255, 255, 255);
+}
+caption{
+    color: wheat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+section{
+    color: white;
+    text-align: center;
+}
+article{
+    text-align: center;
+    color:white;
+}
+nav{
+    color: white;
+    text-align: center;
+}
+aside{
+    color: white;
+    text-align: center;
+}
+header{
+    text-align: center;
+    color: white;
+}
+footer{
+    color: white;
+    text-align: center;
+}
+.hola{
+    font-size: 35px;
+    color: white;
+}
+.hola:hover{
+    color: yellow;
+    font-size: 50px;
+}
+p{
+    color: white;
+}
+p:hover{
+    color: rgb(251, 255, 4);
+    font-size: 21px;
+}
+form{
+    text-align: center;
+    color: aliceblue;
+    border: solid 2px;
+    border-color: antiquewhite;
+    width:30% ;
+    margin: auto;
+    padding: 20px;
+    background-color:transparent;
+}
+.a{
+    text-align: center;
+}
+.as{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(248, 252, 0);
+    border: solid 2px;
+    border-color: antiquewhite;
+    width:80% ;
+    margin: auto;
+    padding: 20px;
+    background-color:transparent;
+}
