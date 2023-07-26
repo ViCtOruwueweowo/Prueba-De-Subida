@@ -1,0 +1,7 @@
+body{
+    background-image: url(../img/dc.jpg);
+    width: 100%;
+    background-size:cover;
+    background-position:auto;
+    background-attachment: fixed;
+}
